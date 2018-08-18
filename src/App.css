@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.cal-title{
+    border:2px solid salmon;
+    margin: 10px auto 10px auto;
+    width: 700px;
+    border-radius: 7px;
+    padding: 10px;
+}
